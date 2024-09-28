@@ -9,11 +9,11 @@ In this tutorial, I have provided a comprehenisve guide on making your own AI Ch
 
 **Backend Server:** Node, Express JS with Server Side Events
 
-## Screenshots on iPhone 15 Pro Max
+## Demo screenshots on iPhone 15 Pro Max
 
-![Demo](https://github.com/Gautham495/React-Native-AI-Chat-Bot/blob/main/Demo.png?raw=true)
+<img src="https://github.com/Gautham495/React-Native-AI-Chat-Bot/blob/main/Demo.png" width="250" height="550" />
 
-## Follow me for more valuable insights
+## Follow me for more react native content via below links
 
 - GitHub: [@Gautham495](https://www.github.com/Gautham495)
 
