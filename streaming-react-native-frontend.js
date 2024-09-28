@@ -62,7 +62,7 @@ const SSEStream = () => {
     // directly from your own sse enabled api
 
     eventSourceRef.current = new EventSource(
-      'https://api.gauthamvijay.com/v1/streaming/sse-values',
+      'your_api',
       {
         headers: {
           'Content-Type': 'application/json',
