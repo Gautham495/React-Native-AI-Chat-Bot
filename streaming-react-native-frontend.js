@@ -8,10 +8,8 @@ import {
   Text,
   ScrollView,
   Dimensions,
+  View
 } from 'react-native';
-
-const View =
-  require('react-native/Libraries/Components/View/ViewNativeComponent').default;
 
 import React, {useRef, useState} from 'react';
 
